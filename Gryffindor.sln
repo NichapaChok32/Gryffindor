@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gryffindor", "Gryffindor\Gryffindor.csproj", "{E1BB8352-1081-44DB-B121-57D77D56E054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1BB8352-1081-44DB-B121-57D77D56E054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1BB8352-1081-44DB-B121-57D77D56E054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1BB8352-1081-44DB-B121-57D77D56E054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1BB8352-1081-44DB-B121-57D77D56E054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0286A16A-6AD2-4CB1-B4D7-5F8673802983}
+	EndGlobalSection
+EndGlobal
